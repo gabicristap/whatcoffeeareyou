@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-178659160-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "UA-178659160-1");
+    </script>
+    <link rel="stylesheet" type="text/css" href="css/infographic.css" />
+    <style>
+      @font-face {
+        font-family: "DINPro-Regular";
+        font-weight: 400;
+        src: url("https://anima-uploads.s3.amazonaws.com/5c48be00d87b81000b6473ba/DINPro-Regular.otf")
+          format("opentype");
+      }
+
+      @font-face {
+        font-family: "Moche-Bold";
+        font-weight: 700;
+        src: url("https://anima-uploads.s3.amazonaws.com/projects/5fd2f7c077243e317410b8af/files/moche-bold.woff")
+          format("woff");
+      }
+
+      @font-face {
+        font-family: "DINPro-Bold";
+        font-weight: 700;
+        src: url("https://anima-uploads.s3.amazonaws.com/5b335248feea73000abcf77a/DINPro-Bold.otf") format("opentype");
+      }
+
+      .component-wrapper a,
+      .screen a {
+        text-decoration: none;
+        display: contents;
+      }
+
+      .full-width-a {
+        width: 100%;
+      }
+
+      .full-height-a {
+        height: 100%;
+      }
+
+      .screen textarea:focus,
+      .screen input:focus {
+        outline: none;
+      }
+
+      .screen *,
+      .component-wrapper * {
+        box-sizing: border-box;
+      }
+
+      .screen div {
+        -webkit-text-size-adjust: none;
+      }
+
+      .container-center-vertical,
+      .container-center-horizontal {
+        pointer-events: none;
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        margin: 0;
+      }
+
+      .container-center-vertical {
+        align-items: center;
+        height: 100%;
+      }
+
+      .container-center-horizontal {
+        justify-content: center;
+        width: 100%;
+      }
+
+      .container-center-vertical > *,
+      .container-center-horizontal > * {
+        pointer-events: auto;
+        flex-shrink: 0;
+      }
+
+      .component-wrapper,
+      .screen {
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-all;
+        word-break: break-word;
+      }
+
+      .auto-animated div {
+        opacity: 0;
+        position: absolute;
+        --z-index: -1;
+      }
+
+      .auto-animated .container-center-vertical,
+      .auto-animated .container-center-horizontal {
+        opacity: 1;
+      }
+
+      .overlay {
+        position: absolute;
+        opacity: 0;
+        display: none;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+      }
+
+      .animate-appear {
+        opacity: 0;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 normal forwards;
+      }
+
+      .animate-disappear {
+        opacity: 1;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 reverse forwards;
+      }
+
+      .animate-nodelay {
+        animation-delay: 0s;
+      }
+
+      @keyframes reveal {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      .align-self-flex-start {
+        align-self: flex-start;
+      }
+      .align-self-flex-end {
+        align-self: flex-end;
+      }
+      .align-self-flex-center {
+        align-self: center;
+      }
+      .valign-text-middle {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .valign-text-bottom {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+      }
+      input:focus {
+        outline: none;
+      }
+      .component-wrapper,
+      .component-wrapper * {
+        pointer-events: none;
+      }
+
+      .component-wrapper a *,
+      .component-wrapper a,
+      .component-wrapper input,
+      .component-wrapper video,
+      .component-wrapper iframe,
+      .listeners-active,
+      .listeners-active * {
+        pointer-events: auto;
+      }
+
+      .hidden,
+      .hidden * {
+        visibility: hidden;
+        pointer-events: none;
+      }
+
+      .smart-layers-pointers,
+      .smart-layers-pointers * {
+        pointer-events: auto;
+        visibility: visible;
+      }
+
+      .component-wrapper.not-ready,
+      .component-wrapper.not-ready * {
+        visibility: hidden !important;
+      }
+
+      .listeners-active-click,
+      .listeners-active-click * {
+        cursor: pointer;
+      }
+    </style>
+    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+  </head>
+  <body style="margin: 0; background: rgba(255, 255, 255, 1)">
+    <input type="hidden" id="anPageName" name="page" value="infographic" />
+    <div class="infographic screen">
+      <img class="swiggle-2-C61RwL" src="img/swiggle-2@1x.png" />
+      <div class="group-491-C61RwL">
+        <div class="x-resources-f-the-page-xB0Kk1">(Resources can all be found at the bottom of the page.)</div>
+        <div class="whats-the-problem-xB0Kk1">What’s the Problem?</div>
+        <div class="hanging-plant-xB0Kk1"><img class="group-371-869Khp" src="img/group-371@1x.png" /></div>
+        <div class="group-487-xB0Kk1">
+          <div class="group-473-gKEcOr">
+            <div class="x10121-farm-violations-ApxKJv dinpro-bold-black-14px smart-layers-pointers">
+              10/121 farms Certified by rainforest or Certifica Minas have had labor violations.<br /><br />
+            </div>
+            <div class="star-1-ApxKJv smart-layers-pointers"></div>
+            <div class="star-2-ApxKJv smart-layers-pointers"></div>
+            <div class="star-3-ApxKJv smart-layers-pointers"></div>
+            <div class="the-state--inspectors-ApxKJv dinpro-bold-black-14px smart-layers-pointers">
+              The state (Minas Gerais, Brazil, responsible&nbsp;&nbsp;for half of the beans&nbsp;&nbsp; in Brazil) has
+              at least 119,000 coffee plantations and hundreds of thousands of workers but only 245 inspectors.<br />
+            </div>
+            <div class="more-than--de-in-2018-ApxKJv dinpro-bold-black-14px smart-layers-pointers">
+              More than 300 coffee workers were found by&nbsp;&nbsp; officials in slave-like conditions nationwide in
+              2018.
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="group-490-C61RwL">
+        <div class="finding-su-ffee-shops-GRwIXj">Finding <br />sustainability in <br />Local Coffee shops.</div>
+        <div class="coffee-bra-gin-coffee-GRwIXj">
+          <span class="span0-AnGTq1">Coffee Brands (Florida)</span
+          ><span class="span1-AnGTq1"><br />Mix of organic certification <br />+ *single-origin coffee</span>
+        </div>
+        <div class="group-485-GRwIXj">
+          <a href="https://strongtreecoffee.com/" target="_blank"
+            ><div class="strongtree-ainesville-y61fPP dinpro-normal-black-14px smart-layers-pointers">
+              Strongtree Coffee Roasters / Gainesville
+            </div></a
+          >
+          <a href="https://www.lineageroasting.com/" target="_blank"
+            ><div class="lineage-co-ng-orlando-y61fPP dinpro-normal-black-14px smart-layers-pointers">
+              Lineage Coffee Roasting / Orlando
+            </div></a
+          >
+          <a href="http://drowsypoetcoffee.com/" target="_blank"
+            ><div class="drowsy-poe--pensacola-y61fPP dinpro-normal-black-14px smart-layers-pointers">
+              Drowsy Poet Coffee / Pensacola
+            </div></a
+          >
+          <a href="https://axumcoffee.com/" target="_blank"
+            ><div class="axum-coffe-ter-garden-y61fPP dinpro-normal-black-14px smart-layers-pointers">
+              Axum Coffee / Winter Garden
+            </div></a
+          >
+          <a href="https://www.sweetwaterorganiccoffee.com/" target="_blank"
+            ><div class="sweetwater-ainesville-y61fPP dinpro-normal-black-14px smart-layers-pointers">
+              Sweetwater Organic Coffee / Gainesville
+            </div></a
+          >
+          <a href="https://www.foxtailcoffee.com/" target="_blank"
+            ><div class="foxtail-co-inter-park-y61fPP dinpro-normal-black-14px smart-layers-pointers">
+              Foxtail Coffee / Winter Park
+            </div></a
+          >
+          <a href="https://luckygoatcoffee.com/" target="_blank"
+            ><div class="lucky-goat-allahassee-y61fPP dinpro-normal-black-14px smart-layers-pointers">
+              Lucky Goat Coffee / Tallahassee
+            </div></a
+          >
+          <a href="https://www.goldenhillscoffee.com/" target="_blank"
+            ><div class="golden-hil-ter-garden-y61fPP dinpro-normal-black-14px smart-layers-pointers">
+              Golden Hills Coffee Roasters / Winter Garden
+            </div></a
+          >
+          <a href="https://www.panthercoffee.com/" target="_blank"
+            ><div class="panther-co-wood-miami-y61fPP dinpro-normal-black-14px smart-layers-pointers">
+              Panther Coffee / Wynwood, Miami
+            </div></a
+          >
+          <a href="https://blackgoldroasters.com/" target="_blank"
+            ><div class="black-gold-ers-venice-y61fPP dinpro-normal-black-14px smart-layers-pointers">
+              Black Gold Coffee Roasters / Venice
+            </div></a
+          >
+          <a href="https://belleaircoffeecompany.com/ " target="_blank"
+            ><div class="belleair-c-air-bluffs-y61fPP dinpro-normal-black-14px smart-layers-pointers">
+              Belleair Coffee Co. / Belleair Bluffs
+            </div></a
+          >
+          <a href="https://boldbeancoffee.com/" target="_blank"
+            ><div class="bold-bean--cksonville-y61fPP dinpro-normal-black-14px smart-layers-pointers">
+              Bold Bean / Jacksonville
+            </div></a
+          >
+          <a href="https://kunjaninaples.com/ " target="_blank"
+            ><div class="kunjani-cr-fee-naples-y61fPP dinpro-normal-black-14px smart-layers-pointers">
+              Kunjani Craft Coffee / Naples
+            </div></a
+          >
+          <a href="https://growersalliance.com/" target="_blank"
+            ><div class="growers-al--augustine-y61fPP dinpro-normal-black-14px smart-layers-pointers">
+              Growers Alliance / St. Augustine
+            </div></a
+          >
+          <a href="https://www.perqcoffeebar.us/ " target="_blank"
+            ><div class="perq-coffe-r-sarasota-y61fPP dinpro-normal-black-14px smart-layers-pointers">
+              Perq Coffee Bar / Sarasota
+            </div></a
+          >
+          <a href="https://wellscoffees.com/ " target="_blank"
+            ><div class="wells-coff-lauderdale-y61fPP dinpro-normal-black-14px smart-layers-pointers">
+              Wells Coffee Company / Ft. Lauderdale
+            </div></a
+          >
+        </div>
+      </div>
+      <img class="swiggle-3-C61RwL" src="img/swiggle-1@1x.png" />
+      <div class="group-492-C61RwL">
+        <img class="bottom-plants-l-CPieFk" src="img/bottom-plants-l@1x.png" />
+        <img class="bottom-plants-r-CPieFk" src="img/bottom-plants-r@1x.png" />
+      </div>
+      <div class="rsl-C61RwL">
+        <a href="https://www.instagram.com/runninglips.studio/"
+          ><div class="runninglipsstudio-SQcxnx smart-layers-pointers">—&gt; @runninglips.studio &lt;—</div></a
+        >
+      </div>
+      <div class="group-489-C61RwL">
+        <div class="other-ways-to-help-yQw26s">Other ways <br />to Help!</div>
+        <a href="https://womenincoffee.networkforgood.com/projects/72493-invest-in-iwca" target="_blank">
+          <div class="group-466-yQw26s">
+            <img class="path-380-Ux9mBk" src="img/path-385@1x.png" />
+            <img class="path-381-Ux9mBk" src="img/path-387@1x.png" />
+            <img class="path-382-Ux9mBk" src="img/path-382@1x.png" />
+            <img class="path-383-Ux9mBk" src="img/path-383@1x.png" />
+            <img class="path-384-Ux9mBk" src="img/path-384@1x.png" /></div
+        ></a>
+        <a href="https://www.gabicrista.com/shenanigans" target="_blank">
+          <div class="group-467-yQw26s">
+            <img class="path-385-aLw2x5" src="img/path-385@1x.png" />
+            <img class="path-386-aLw2x5" src="img/path-386@1x.png" />
+            <img class="path-387-aLw2x5" src="img/path-387@1x.png" /></div
+        ></a>
+        <a href="http://gabicrista.com/wcay-sources" target="_blank">
+          <div class="group-468-yQw26s">
+            <img class="path-388-7irdYX" src="img/path-381@1x.png" />
+            <img class="path-389-7irdYX" src="img/path-385@1x.png" />
+            <img class="path-390-7irdYX" src="img/path-390@1x.png" /></div
+        ></a>
+        <div class="group-488-yQw26s">
+          <div class="the-intern--communiti-MEa9i7 smart-layers-pointers">
+            <span class="span0-aVR2Ru">The International Women’s Coffee Alliance<br /><br /></span
+            ><span class="span1-aVR2Ru"
+              >The International Women’s Coffee Alliance (IWCA) which is a global network lead by self-driven, local
+              chapters that aim to focus on achieving and learning about sustainable livelihood in their respective
+              communities. It also focuses on the participation of woman in all aspects of the coffee industry.</span
+            >
+          </div>
+          <div class="you-can-cl-e-alliance-MEa9i7 dinpro-normal-black-14px smart-layers-pointers">
+            You can click the link to directly donate to The International Women’s Coffee Alliance or purchase a limited
+            quantity “What Coffee Are You” quiz poster in the shop below and all profit will be going to the
+            International Women’s Coffee Alliance.
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

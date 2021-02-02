@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-178659160-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "UA-178659160-1");
+    </script>
+    <link rel="stylesheet" type="text/css" href="css/galao.css" />
+    <style>
+      @font-face {
+        font-family: "DINPro-Regular";
+        font-weight: 400;
+        src: url("https://anima-uploads.s3.amazonaws.com/5c48be00d87b81000b6473ba/DINPro-Regular.otf")
+          format("opentype");
+      }
+
+      @font-face {
+        font-family: "Moche-Bold";
+        font-weight: 700;
+        src: url("https://anima-uploads.s3.amazonaws.com/projects/5fd2f7c077243e317410b8af/files/moche-bold.woff")
+          format("woff");
+      }
+
+      @font-face {
+        font-family: "DINPro-Bold";
+        font-weight: 700;
+        src: url("https://anima-uploads.s3.amazonaws.com/5b335248feea73000abcf77a/DINPro-Bold.otf") format("opentype");
+      }
+
+      .component-wrapper a,
+      .screen a {
+        text-decoration: none;
+        display: contents;
+      }
+
+      .full-width-a {
+        width: 100%;
+      }
+
+      .full-height-a {
+        height: 100%;
+      }
+
+      .screen textarea:focus,
+      .screen input:focus {
+        outline: none;
+      }
+
+      .screen *,
+      .component-wrapper * {
+        box-sizing: border-box;
+      }
+
+      .screen div {
+        -webkit-text-size-adjust: none;
+      }
+
+      .container-center-vertical,
+      .container-center-horizontal {
+        pointer-events: none;
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        margin: 0;
+      }
+
+      .container-center-vertical {
+        align-items: center;
+        height: 100%;
+      }
+
+      .container-center-horizontal {
+        justify-content: center;
+        width: 100%;
+      }
+
+      .container-center-vertical > *,
+      .container-center-horizontal > * {
+        pointer-events: auto;
+        flex-shrink: 0;
+      }
+
+      .component-wrapper,
+      .screen {
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-all;
+        word-break: break-word;
+      }
+
+      .auto-animated div {
+        opacity: 0;
+        position: absolute;
+        --z-index: -1;
+      }
+
+      .auto-animated .container-center-vertical,
+      .auto-animated .container-center-horizontal {
+        opacity: 1;
+      }
+
+      .overlay {
+        position: absolute;
+        opacity: 0;
+        display: none;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+      }
+
+      .animate-appear {
+        opacity: 0;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 normal forwards;
+      }
+
+      .animate-disappear {
+        opacity: 1;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 reverse forwards;
+      }
+
+      .animate-nodelay {
+        animation-delay: 0s;
+      }
+
+      @keyframes reveal {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      .align-self-flex-start {
+        align-self: flex-start;
+      }
+      .align-self-flex-end {
+        align-self: flex-end;
+      }
+      .align-self-flex-center {
+        align-self: center;
+      }
+      .valign-text-middle {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .valign-text-bottom {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+      }
+      input:focus {
+        outline: none;
+      }
+      .component-wrapper,
+      .component-wrapper * {
+        pointer-events: none;
+      }
+
+      .component-wrapper a *,
+      .component-wrapper a,
+      .component-wrapper input,
+      .component-wrapper video,
+      .component-wrapper iframe,
+      .listeners-active,
+      .listeners-active * {
+        pointer-events: auto;
+      }
+
+      .hidden,
+      .hidden * {
+        visibility: hidden;
+        pointer-events: none;
+      }
+
+      .smart-layers-pointers,
+      .smart-layers-pointers * {
+        pointer-events: auto;
+        visibility: visible;
+      }
+
+      .component-wrapper.not-ready,
+      .component-wrapper.not-ready * {
+        visibility: hidden !important;
+      }
+
+      .listeners-active-click,
+      .listeners-active-click * {
+        cursor: pointer;
+      }
+    </style>
+    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+  </head>
+  <body style="margin: 0; background: rgba(255, 255, 255, 1)">
+    <input type="hidden" id="anPageName" name="page" value="galao" />
+    <div class="galao screen">
+      <a href="https://www.gabicrista.com/" target="_blank">
+        <div class="group-291-C61RwL">
+          <div class="group-101-A2f579"></div>
+          <img class="rectangle-71-A2f579" src="img/rectangle-71-1@1x.png" /></div
+      ></a>
+      <img class="path-129-C61RwL" src="img/path-129@1x.png" />
+      <div class="group-351-C61RwL">
+        <div class="group-309-l78Mad">
+          <img class="ellipse-4-wQsfLY" src="img/ellipse-4@1x.png" />
+          <img class="rectangle-77-wQsfLY" src="img/rectangle-77@1x.png" />
+        </div>
+        <div class="you-got-galo-l78Mad">You got Galão.</div>
+        <div class="intimate-s-thusiastic-l78Mad athelas-normal-hemlock-6px">Intimate, sensitive and enthusiastic</div>
+        <div class="main-ingre-oamed-milk-l78Mad athelas-bold-hemlock-6px">
+          <span class="span0-Rh4i43">Main Ingredients:</span><span class="span1-Rh4i43">&nbsp;</span
+          ><span class="span2-Rh4i43">Espresso, Foamed milk</span>
+        </div>
+        <div class="place-of-o-n-portugal-l78Mad athelas-bold-hemlock-6px">
+          <span class="span0-faiqc1">Place of Origin:</span><span class="span1-faiqc1">&nbsp;</span
+          ><span class="span2-faiqc1"> Portugal</span>
+        </div>
+        <div class="you-intend-hos-to-say-l78Mad athelas-normal-hemlock-6px-2">
+          You intend to bring order to people around you be motivating <br />and persuading people around you. You’re
+          not a micromanager, <br />you’re a leader who is just determined to delegate until you have <br />efficiency.
+          Maybe you are a micromanager, who’s to say.&nbsp;&nbsp;
+        </div>
+      </div>
+      <a href="infographic.html">
+        <div class="group-472-C61RwL">
+          <img class="path-391-akG49r" src="img/path-391-1@1x.png" />
+          <img class="path-392-akG49r" src="img/path-392-1@1x.png" />
+          <div class="group-470-akG49r"><img class="group-469-1cK0tM" src="img/group-469-1@1x.png" /></div>
+          <img class="path-404-akG49r" src="img/path-391-1@1x.png" />
+          <img class="path-405-akG49r" src="img/path-405-1@1x.png" /></div
+      ></a>
+      <a href="index.html">
+        <div class="group-483-C61RwL">
+          <img class="group-480-VUAYfS" src="img/group-480-10@1x.png" />
+          <div class="group-482-VUAYfS">
+            <img class="path-443-WyXn57" src="img/path-332-10@1x.png" />
+            <div class="group-481-WyXn57"></div>
+            <img class="path-445-WyXn57" src="img/path-445-10@1x.png" />
+          </div></div
+      ></a>
+    </div>
+  </body>
+</html>

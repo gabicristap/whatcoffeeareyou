@@ -1,0 +1,1343 @@
+/* screen - infographic */
+
+.alegreya-normal-white-15px {
+  color: var(--white);
+  font-family: 'Alegreya', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.alegreya-normal-white-16px {
+  color: var(--white);
+  font-family: 'Alegreya', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.athelas-bold-hemlock-6px {
+  color: var(--hemlock);
+  font-family: 'Athelas', Helvetica, Arial, serif;
+  font-size: 6px;
+  font-style: normal;
+  font-weight: 700;
+}
+.athelas-normal-hemlock-6px {
+  color: var(--hemlock);
+  font-family: 'Athelas', Helvetica, Arial, serif;
+  font-size: 6px;
+  font-style: italic;
+  font-weight: 400;
+}
+.athelas-normal-hemlock-6px-2 {
+  color: var(--hemlock);
+  font-family: 'Athelas', Helvetica, Arial, serif;
+  font-size: 6px;
+  font-style: normal;
+  font-weight: 400;
+}
+.dinpro-bold-black-14px {
+  color: var(--black);
+  font-family: 'DIN Pro', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+}
+.dinpro-normal-black-14px {
+  color: var(--black);
+  font-family: 'DIN Pro', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.dove-gray-border-4px {
+  border: 4px solid var(--dove-gray);
+}
+.ebony-clay-border-4px {
+  border: 4px solid var(--ebony-clay);
+}
+.hemlock-2-border-4px {
+  border: 4px solid var(--hemlock-2);
+}
+.infographic {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1907px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.infographic .axum-coffe-ter-garden-y61fPP {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: calc(39.70% - 7px);
+  transition: all 0.2s ease;
+  width: 183px;
+}
+.infographic .axum-coffe-ter-garden-y61fPP:hover {
+
+transform: scale(0.9); 
+}
+.infographic .belleair-c-air-bluffs-y61fPP {
+  background-color: transparent;
+  bottom: calc(26.99% - 6px);
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: calc(100.00% - 62px);
+}
+.infographic .belleair-c-air-bluffs-y61fPP:hover {
+
+transform: scale(0.9); 
+}
+.infographic .black-gold-ers-venice-y61fPP {
+  background-color: transparent;
+  bottom: calc(20.43% - 4px);
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: calc(100.00% - 58px);
+}
+.infographic .black-gold-ers-venice-y61fPP:hover {
+
+transform: scale(0.9); 
+}
+.infographic .bold-bean--cksonville-y61fPP {
+  background-color: transparent;
+  bottom: calc(40.98% - 9px);
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 156px;
+}
+.infographic .bold-bean--cksonville-y61fPP:hover {
+
+transform: scale(0.9); 
+}
+.infographic .bottom-plants-l-CPieFk {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 183px;
+}
+.infographic .bottom-plants-r-CPieFk {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 183px;
+}
+.infographic .coffee-bra-gin-coffee-GRwIXj {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "DIN Pro", Helvetica, Arial, serif;
+  font-size: 15px;
+  height: 63px;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.55% - 13px);
+  width: calc(100.00% - 98px);
+}
+.infographic .drowsy-poe--pensacola-y61fPP {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  transition: all 0.2s ease;
+  width: calc(100.00% - 14px);
+}
+.infographic .drowsy-poe--pensacola-y61fPP:hover {
+
+transform: scale(0.9); 
+}
+.infographic .ellipse-13-Ms5WPS {
+  background-color: transparent;
+  bottom: 22px;
+  height: 19px;
+  left: -1px;
+  position: absolute;
+  width: 19px;
+}
+.infographic .ellipse-14-Ms5WPS {
+  background-color: transparent;
+  bottom: calc(43.81% - 8px);
+  height: 19px;
+  left: -1px;
+  position: absolute;
+  width: 19px;
+}
+.infographic .ellipse-15-Ms5WPS {
+  background-color: transparent;
+  bottom: calc(33.05% - 6px);
+  height: 19px;
+  left: -1px;
+  position: absolute;
+  width: 19px;
+}
+.infographic .ellipse-16-Ms5WPS {
+  background-color: transparent;
+  bottom: calc(22.30% - 4px);
+  height: 19px;
+  left: -1px;
+  position: absolute;
+  width: 19px;
+}
+.infographic .ellipse-17-Ms5WPS {
+  background-color: transparent;
+  height: 19px;
+  left: calc(40.31% - 8px);
+  position: absolute;
+  top: calc(45.43% - 8px);
+  width: 19px;
+}
+.infographic .ellipse-18-Ms5WPS {
+  background-color: transparent;
+  bottom: calc(43.81% - 8px);
+  height: 19px;
+  left: calc(40.31% - 8px);
+  position: absolute;
+  width: 19px;
+}
+.infographic .ellipse-19-Ms5WPS {
+  background-color: transparent;
+  bottom: calc(33.05% - 6px);
+  height: 19px;
+  left: calc(40.31% - 8px);
+  position: absolute;
+  width: 19px;
+}
+.infographic .ellipse-20-Ms5WPS {
+  background-color: transparent;
+  bottom: calc(22.30% - 4px);
+  height: 19px;
+  left: calc(40.31% - 8px);
+  position: absolute;
+  width: 19px;
+}
+.infographic .ellipse-21-Ms5WPS {
+  background-color: transparent;
+  bottom: 22px;
+  height: 19px;
+  left: calc(40.31% - 8px);
+  position: absolute;
+  width: 19px;
+}
+.infographic .ellipse-22-Ms5WPS {
+  background-color: transparent;
+  height: 19px;
+  left: calc(18.70% - 3px);
+  position: absolute;
+  top: calc(45.43% - 8px);
+  width: 19px;
+}
+.infographic .ellipse-23-Ms5WPS {
+  background-color: transparent;
+  height: 19px;
+  left: -1px;
+  position: absolute;
+  top: calc(45.43% - 8px);
+  width: 19px;
+}
+.infographic .ellipse-24-Ms5WPS {
+  background-color: transparent;
+  bottom: calc(43.81% - 8px);
+  height: 19px;
+  left: calc(18.70% - 3px);
+  position: absolute;
+  width: 19px;
+}
+.infographic .ellipse-25-Ms5WPS {
+  background-color: transparent;
+  bottom: calc(33.05% - 6px);
+  height: 19px;
+  left: calc(18.70% - 3px);
+  position: absolute;
+  width: 19px;
+}
+.infographic .ellipse-26-Ms5WPS {
+  background-color: transparent;
+  height: 19px;
+  position: absolute;
+  right: 18px;
+  top: calc(45.43% - 8px);
+  width: 19px;
+}
+.infographic .ellipse-27-Ms5WPS {
+  background-color: transparent;
+  bottom: calc(43.81% - 8px);
+  height: 19px;
+  position: absolute;
+  right: 18px;
+  width: 19px;
+}
+.infographic .ellipse-28-Ms5WPS {
+  background-color: transparent;
+  bottom: calc(33.05% - 6px);
+  height: 19px;
+  position: absolute;
+  right: 18px;
+  width: 19px;
+}
+.infographic .ellipse-29-Ms5WPS {
+  background-color: transparent;
+  bottom: -1px;
+  height: 19px;
+  left: calc(40.31% - 8px);
+  position: absolute;
+  width: 19px;
+}
+.infographic .ellipse-30-XECfTu {
+  background-color: transparent;
+  bottom: 7px;
+  height: 19px;
+  position: absolute;
+  right: -2px;
+  width: 25px;
+}
+.infographic .ellipse-30-dOPAx9 {
+  background-color: transparent;
+  bottom: 7px;
+  height: 19px;
+  left: -2px;
+  position: absolute;
+  width: 25px;
+}
+.infographic .ellipse-31-XECfTu {
+  background-color: transparent;
+  bottom: 5px;
+  height: 23px;
+  left: calc(25.87% - 7px);
+  position: absolute;
+  width: 28px;
+}
+.infographic .ellipse-31-dOPAx9 {
+  background-color: transparent;
+  bottom: 5px;
+  height: 23px;
+  position: absolute;
+  right: calc(25.87% - 7px);
+  width: 28px;
+}
+.infographic .ellipse-32-XECfTu {
+  background-color: transparent;
+  bottom: 8px;
+  height: 24px;
+  left: -2px;
+  position: absolute;
+  width: 29px;
+}
+.infographic .ellipse-32-dOPAx9 {
+  background-color: transparent;
+  bottom: 8px;
+  height: 24px;
+  position: absolute;
+  right: -2px;
+  width: 29px;
+}
+.infographic .ellipse-33-XECfTu {
+  background-color: transparent;
+  bottom: 8px;
+  height: 24px;
+  left: -2px;
+  position: absolute;
+  width: 29px;
+}
+.infographic .ellipse-33-dOPAx9 {
+  background-color: transparent;
+  bottom: 8px;
+  height: 24px;
+  position: absolute;
+  right: -2px;
+  width: 29px;
+}
+.infographic .finding-su-ffee-shops-GRwIXj {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Moche', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: 78px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% - 26px);
+}
+.infographic .foxtail-co-inter-park-y61fPP {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: calc(33.43% - 6px);
+  transition: all 0.2s ease;
+  width: 173px;
+}
+.infographic .foxtail-co-inter-park-y61fPP:hover {
+
+transform: scale(0.9); 
+}
+.infographic .golden-hil-ter-garden-y61fPP {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: calc(45.73% - 9px);
+  transition: all 0.2s ease;
+  width: 100%;
+}
+.infographic .golden-hil-ter-garden-y61fPP:hover {
+
+transform: scale(0.9); 
+}
+.infographic .group-371-869Khp {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.infographic .group-466-yQw26s {
+  background-color: transparent;
+  bottom: calc(16.85% - 6px);
+  height: 33px;
+  position: absolute;
+  right: calc(49.74% - 65px);
+  width: 131px;
+}
+.infographic .group-467-yQw26s {
+  background-color: transparent;
+  bottom: 45px;
+  height: 33px;
+  position: absolute;
+  right: calc(49.74% - 65px);
+  width: 131px;
+}
+.infographic .group-468-yQw26s {
+  background-color: transparent;
+  bottom: 0px;
+  height: 33px;
+  position: absolute;
+  right: calc(49.74% - 65px);
+  width: 131px;
+}
+.infographic .group-473-gKEcOr {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.infographic .group-485-GRwIXj {
+  background-color: transparent;
+  bottom: 0px;
+  height: 348px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.infographic .group-487-xB0Kk1 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 224px;
+  left: 4px;
+  position: absolute;
+  width: calc(100.00% - 9px);
+}
+.infographic .group-488-yQw26s {
+  background-color: transparent;
+  height: 337px;
+  left: 0px;
+  position: absolute;
+  top: 78px;
+  width: 100%;
+}
+.infographic .group-489-C61RwL {
+  background-color: transparent;
+  bottom: 197px;
+  height: 568px;
+  left: 54px;
+  position: absolute;
+  width: calc(100.00% - 109px);
+}
+.infographic .group-490-C61RwL {
+  background-color: transparent;
+  height: 520px;
+  left: 48px;
+  position: absolute;
+  top: calc(39.68% - 206px);
+  width: calc(100.00% - 95px);
+}
+.infographic .group-491-C61RwL {
+  background-color: transparent;
+  height: 514px;
+  left: 50px;
+  position: absolute;
+  top: -25px;
+  width: calc(100.00% - 99px);
+}
+.infographic .group-492-C61RwL {
+  background-color: transparent;
+  bottom: 0px;
+  height: 95px;
+  left: -9px;
+  position: absolute;
+  width: calc(100.00% + 19px);
+}
+.infographic .growers-al--augustine-y61fPP {
+  background-color: transparent;
+  bottom: calc(33.94% - 7px);
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: calc(100.00% - 80px);
+}
+.infographic .growers-al--augustine-y61fPP:hover {
+
+transform: scale(0.9); 
+}
+.infographic .hanging-plant-xB0Kk1 {
+  background-color: transparent;
+  height: 213px;
+  left: calc(49.22% - 73px);
+  position: absolute;
+  top: 0px;
+  width: 148px;
+}
+.infographic .kunjani-cr-fee-naples-y61fPP {
+  background-color: transparent;
+  bottom: 45px;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 183px;
+}
+.infographic .kunjani-cr-fee-naples-y61fPP:hover {
+
+transform: scale(0.9); 
+}
+.infographic .line-2-Ms5WPS {
+  background-color: transparent;
+  bottom: calc(24.61% - 21px);
+  height: 85px;
+  left: 6px;
+  position: absolute;
+  width: 3px;
+}
+.infographic .line-3-Ms5WPS {
+  background-color: transparent;
+  bottom: 14px;
+  height: 103px;
+  left: calc(41.36% - 1px);
+  position: absolute;
+  width: 3px;
+}
+.infographic .line-4-Ms5WPS {
+  background-color: transparent;
+  bottom: calc(41.35% - 20px);
+  height: 49px;
+  left: calc(22.07% - 1px);
+  position: absolute;
+  width: 3px;
+}
+.infographic .line-5-Ms5WPS {
+  background-color: transparent;
+  bottom: calc(41.35% - 20px);
+  height: 49px;
+  position: absolute;
+  right: 26px;
+  width: 3px;
+}
+.infographic .line-6-XECfTu {
+  background-color: transparent;
+  bottom: -2px;
+  height: 16px;
+  left: calc(28.21% - 2px);
+  position: absolute;
+  width: 6px;
+}
+.infographic .line-6-dOPAx9 {
+  background-color: transparent;
+  bottom: -2px;
+  height: 16px;
+  position: absolute;
+  right: calc(28.21% - 2px);
+  width: 6px;
+}
+.infographic .lineage-co-ng-orlando-y61fPP {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: calc(27.13% - 5px);
+  transition: all 0.2s ease;
+  width: calc(100.00% - 36px);
+}
+.infographic .lineage-co-ng-orlando-y61fPP:hover {
+
+transform: scale(0.9); 
+}
+.infographic .lucky-goat-allahassee-y61fPP {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: calc(20.43% - 4px);
+  transition: all 0.2s ease;
+  width: calc(100.00% - 14px);
+}
+.infographic .lucky-goat-allahassee-y61fPP:hover {
+
+transform: scale(0.9); 
+}
+.infographic .more-than--de-in-2018-ApxKJv {
+  background-color: transparent;
+  bottom: -2px;
+  height: 58px;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: calc(100.00% - 13px);
+}
+.infographic .more-than--de-in-2018-ApxKJv:hover {
+
+transform: scale(0.9); 
+}
+.infographic .other-ways-to-help-yQw26s {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Moche', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: 51px;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% - 105px);
+}
+.infographic .panther-co-wood-miami-y61fPP {
+  background-color: transparent;
+  bottom: calc(47.56% - 10px);
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: calc(100.00% - 68px);
+}
+.infographic .panther-co-wood-miami-y61fPP:hover {
+
+transform: scale(0.9); 
+}
+.infographic .path-199-Ms5WPS {
+  background-color: transparent;
+  height: 99px;
+  left: 4px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% - 3px);
+}
+.infographic .path-200-Ms5WPS {
+  background-color: transparent;
+  bottom: calc(39.50% - 24px);
+  height: 60px;
+  left: 3px;
+  position: absolute;
+  width: calc(100.00% - 1px);
+}
+.infographic .path-201-Ms5WPS {
+  background-color: transparent;
+  bottom: calc(39.50% - 24px);
+  height: 60px;
+  position: absolute;
+  right: -2px;
+  width: 75px;
+}
+.infographic .path-202-Ms5WPS {
+  background-color: transparent;
+  bottom: 23px;
+  height: 18px;
+  left: -2px;
+  position: absolute;
+  width: 19px;
+}
+.infographic .path-203-Ms5WPS {
+  background-color: transparent;
+  bottom: -1px;
+  height: 18px;
+  left: calc(40.31% - 8px);
+  position: absolute;
+  width: 19px;
+}
+.infographic .path-204-XECfTu {
+  background-color: transparent;
+  bottom: -1px;
+  height: 81px;
+  position: absolute;
+  right: calc(31.68% - 9px);
+  width: 28px;
+}
+.infographic .path-204-dOPAx9 {
+  background-color: transparent;
+  bottom: -1px;
+  height: 81px;
+  left: calc(31.68% - 9px);
+  position: absolute;
+  width: 28px;
+}
+.infographic .path-205-XECfTu {
+  background-color: transparent;
+  bottom: 4px;
+  height: 64px;
+  left: calc(48.42% - 11px);
+  position: absolute;
+  width: 23px;
+}
+.infographic .path-205-dOPAx9 {
+  background-color: transparent;
+  bottom: 4px;
+  height: 64px;
+  position: absolute;
+  right: calc(48.42% - 11px);
+  width: 23px;
+}
+.infographic .path-206-XECfTu {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  position: absolute;
+  right: calc(42.74% - 14px);
+  top: -2px;
+  width: 33px;
+}
+.infographic .path-206-dOPAx9 {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: calc(42.74% - 14px);
+  position: absolute;
+  top: -2px;
+  width: 33px;
+}
+.infographic .path-207-XECfTu {
+  background-color: transparent;
+  bottom: -1px;
+  height: 76px;
+  left: calc(36.14% - 15px);
+  position: absolute;
+  width: 40px;
+}
+.infographic .path-207-dOPAx9 {
+  background-color: transparent;
+  bottom: -1px;
+  height: 76px;
+  position: absolute;
+  right: calc(36.14% - 15px);
+  width: 40px;
+}
+.infographic .path-208-XECfTu {
+  background-color: transparent;
+  bottom: -2px;
+  height: 29px;
+  position: absolute;
+  right: 13px;
+  width: 23px;
+}
+.infographic .path-208-dOPAx9 {
+  background-color: transparent;
+  bottom: -2px;
+  height: 29px;
+  left: 13px;
+  position: absolute;
+  width: 23px;
+}
+.infographic .path-209-XECfTu {
+  background-color: transparent;
+  bottom: calc(27.65% - 10px);
+  height: 35px;
+  position: absolute;
+  right: 23px;
+  width: 40px;
+}
+.infographic .path-209-dOPAx9 {
+  background-color: transparent;
+  bottom: calc(27.65% - 10px);
+  height: 35px;
+  left: 23px;
+  position: absolute;
+  width: 40px;
+}
+.infographic .path-210-XECfTu {
+  background-color: transparent;
+  bottom: -1px;
+  height: 53px;
+  left: 17px;
+  position: absolute;
+  width: 32px;
+}
+.infographic .path-210-dOPAx9 {
+  background-color: transparent;
+  bottom: -1px;
+  height: 53px;
+  position: absolute;
+  right: 17px;
+  width: 32px;
+}
+.infographic .path-211-XECfTu {
+  background-color: transparent;
+  height: 48px;
+  left: 13px;
+  position: absolute;
+  top: calc(45.53% - 22px);
+  width: 45px;
+}
+.infographic .path-211-dOPAx9 {
+  background-color: transparent;
+  height: 48px;
+  position: absolute;
+  right: 13px;
+  top: calc(45.53% - 22px);
+  width: 45px;
+}
+.infographic .path-212-XECfTu {
+  background-color: transparent;
+  bottom: -2px;
+  height: 43px;
+  left: calc(49.79% - 5px);
+  position: absolute;
+  width: 11px;
+}
+.infographic .path-212-dOPAx9 {
+  background-color: transparent;
+  bottom: -2px;
+  height: 43px;
+  position: absolute;
+  right: calc(49.79% - 5px);
+  width: 11px;
+}
+.infographic .path-213-XECfTu {
+  background-color: transparent;
+  bottom: 7px;
+  height: 19px;
+  position: absolute;
+  right: -1px;
+  width: 25px;
+}
+.infographic .path-213-dOPAx9 {
+  background-color: transparent;
+  bottom: 7px;
+  height: 19px;
+  left: -2px;
+  position: absolute;
+  width: 25px;
+}
+.infographic .path-214-XECfTu {
+  background-color: transparent;
+  bottom: calc(27.30% - 8px);
+  height: 30px;
+  position: absolute;
+  right: 23px;
+  width: 14px;
+}
+.infographic .path-214-dOPAx9 {
+  background-color: transparent;
+  bottom: calc(27.30% - 8px);
+  height: 30px;
+  left: 23px;
+  position: absolute;
+  width: 14px;
+}
+.infographic .path-215-XECfTu {
+  background-color: transparent;
+  height: 29px;
+  left: calc(27.12% - 3px);
+  position: absolute;
+  top: calc(41.91% - 12px);
+  width: 12px;
+}
+.infographic .path-215-dOPAx9 {
+  background-color: transparent;
+  height: 29px;
+  position: absolute;
+  right: calc(27.12% - 3px);
+  top: calc(41.91% - 12px);
+  width: 12px;
+}
+.infographic .path-380-Ux9mBk {
+  background-color: transparent;
+  height: 2px;
+  position: absolute;
+  right: calc(30.94% - 2px);
+  top: calc(45.25% - 1px);
+  width: 6px;
+}
+.infographic .path-381-Ux9mBk {
+  background-color: transparent;
+  height: 3px;
+  left: calc(35.92% - 2px);
+  position: absolute;
+  top: calc(49.19% - 2px);
+  width: 7px;
+}
+.infographic .path-382-Ux9mBk {
+  background-color: transparent;
+  height: 5px;
+  left: calc(26.48% - 2px);
+  position: absolute;
+  top: calc(44.77% - 2px);
+  width: 8px;
+}
+.infographic .path-383-Ux9mBk {
+  background-color: transparent;
+  bottom: calc(46.83% - 1px);
+  height: 2px;
+  position: absolute;
+  right: calc(46.01% - 3px);
+  width: 6px;
+}
+.infographic .path-384-Ux9mBk {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.infographic .path-385-aLw2x5 {
+  background-color: transparent;
+  height: 2px;
+  position: absolute;
+  right: calc(37.62% - 2px);
+  top: calc(45.25% - 1px);
+  width: 6px;
+}
+.infographic .path-386-aLw2x5 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.infographic .path-387-aLw2x5 {
+  background-color: transparent;
+  height: 3px;
+  left: calc(47.92% - 3px);
+  position: absolute;
+  top: calc(49.19% - 2px);
+  width: 7px;
+}
+.infographic .path-388-7irdYX {
+  background-color: transparent;
+  height: 3px;
+  left: calc(32.26% - 2px);
+  position: absolute;
+  top: calc(49.19% - 2px);
+  width: 7px;
+}
+.infographic .path-389-7irdYX {
+  background-color: transparent;
+  height: 2px;
+  position: absolute;
+  right: calc(36.00% - 2px);
+  top: calc(45.25% - 1px);
+  width: 6px;
+}
+.infographic .path-390-7irdYX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.infographic .perq-coffe-r-sarasota-y61fPP {
+  background-color: transparent;
+  bottom: 21px;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 169px;
+}
+.infographic .perq-coffe-r-sarasota-y61fPP:hover {
+
+transform: scale(0.9); 
+}
+.infographic .rsl-C61RwL {
+  background-color: transparent;
+  bottom: 126px;
+  height: 20px;
+  left: calc(50.00% - 96px);
+  position: absolute;
+  width: 193px;
+}
+.infographic .runninglipsstudio-SQcxnx {
+  background-color: transparent;
+  color: rgba(113,122,58,1.0);
+  font-family: 'DIN Pro', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: calc(100.00% + 2px);
+}
+.infographic .runninglipsstudio-SQcxnx:hover {
+
+transform: scale(0.9); 
+}
+.infographic .span0-AnGTq1 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'DIN Pro', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.infographic .span0-aVR2Ru {
+  color: rgba(0,0,0,1.0);
+  font-family: 'DIN Pro', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.infographic .span1-AnGTq1 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'DIN Pro', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.infographic .span1-aVR2Ru {
+  color: rgba(0,0,0,1.0);
+  font-family: 'DIN Pro', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.infographic .star-1-ApxKJv {
+  background-color: transparent;
+  background-image: url(../img/path-140-1@1x.png);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 12px;
+}
+.infographic .star-1-ApxKJv:hover {
+
+transform: scale(0.9); 
+}
+.infographic .star-2-ApxKJv {
+  background-color: transparent;
+  background-image: url(../img/path-140-1@1x.png);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: calc(30.81% - 3px);
+  transition: all 0.2s ease;
+  width: 12px;
+}
+.infographic .star-2-ApxKJv:hover {
+
+transform: scale(0.9); 
+}
+.infographic .star-3-ApxKJv {
+  background-color: transparent;
+  background-image: url(../img/path-140-1@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(21.40% - 2px);
+  height: 11px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 12px;
+}
+.infographic .star-3-ApxKJv:hover {
+
+transform: scale(0.9); 
+}
+.infographic .strongtree-ainesville-y61fPP {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: calc(100.00% + 2px);
+}
+.infographic .strongtree-ainesville-y61fPP:hover {
+
+transform: scale(0.9); 
+}
+.infographic .sweetwater-ainesville-y61fPP {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+.infographic .sweetwater-ainesville-y61fPP:hover {
+
+transform: scale(0.9); 
+}
+.infographic .swiggle-2-C61RwL {
+  background-color: transparent;
+  height: 7px;
+  left: 62px;
+  position: absolute;
+  top: calc(27.15% - 2px);
+  width: calc(100.00% - 124px);
+}
+.infographic .swiggle-3-C61RwL {
+  background-color: transparent;
+  bottom: calc(41.71% - 3px);
+  height: 7px;
+  left: 62px;
+  position: absolute;
+  width: calc(100.00% - 124px);
+}
+.infographic .the-intern--communiti-MEa9i7 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "DIN Pro", Helvetica, Arial, serif;
+  font-size: 14px;
+  height: 208px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: calc(100.00% + 2px);
+}
+.infographic .the-intern--communiti-MEa9i7:hover {
+
+transform: scale(0.9); 
+}
+.infographic .the-state--inspectors-ApxKJv {
+  background-color: transparent;
+  bottom: calc(48.31% - 47px);
+  height: 97px;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: calc(100.00% - 13px);
+}
+.infographic .the-state--inspectors-ApxKJv:hover {
+
+transform: scale(0.9); 
+}
+.infographic .wells-coff-lauderdale-y61fPP {
+  background-color: transparent;
+  bottom: -2px;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: calc(100.00% - 36px);
+}
+.infographic .wells-coff-lauderdale-y61fPP:hover {
+
+transform: scale(0.9); 
+}
+.infographic .whats-the-problem-xB0Kk1 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Moche', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  height: 33px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: calc(46.69% - 15px);
+  width: calc(100.00% + 2px);
+}
+.infographic .x-resources-f-the-page-xB0Kk1 {
+  background-color: transparent;
+  bottom: calc(47.39% - 10px);
+  color: var(--black);
+  font-family: 'DIN Pro', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 5px);
+}
+.infographic .x10121-farm-violations-ApxKJv {
+  background-color: transparent;
+  height: 59px;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  transition: all 0.2s ease;
+  width: calc(100.00% - 11px);
+}
+.infographic .x10121-farm-violations-ApxKJv:hover {
+
+transform: scale(0.9); 
+}
+.infographic .you-can-cl-e-alliance-MEa9i7 {
+  background-color: transparent;
+  bottom: -2px;
+  height: 120px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+.infographic .you-can-cl-e-alliance-MEa9i7:hover {
+
+transform: scale(0.9); 
+}
+.moche-bold-hemlock-15px {
+  color: var(--hemlock);
+  font-family: 'Moche', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.moche-bold-white-17px {
+  color: var(--white);
+  font-family: 'Moche', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --dove-gray: rgba(112,112,112,1.0);
+  --ebony-clay: rgba(38,30,61,1.0);
+  --hemlock: rgba(89,93,69,1.0);
+  --hemlock-2: rgba(81,85,59,1.0);
+  --salmon: rgba(254,143,98,1.0);
+  --spring-wood: rgba(248,246,235,1.0);
+  --white: rgba(255,255,255,1.0);
+}

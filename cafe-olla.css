@@ -1,0 +1,581 @@
+/* screen - cafe-olla */
+
+.alegreya-normal-white-15px {
+  color: var(--white);
+  font-family: 'Alegreya', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.alegreya-normal-white-16px {
+  color: var(--white);
+  font-family: 'Alegreya', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.athelas-bold-hemlock-6px {
+  color: var(--hemlock);
+  font-family: 'Athelas', Helvetica, Arial, serif;
+  font-size: 6px;
+  font-style: normal;
+  font-weight: 700;
+}
+.athelas-normal-hemlock-6px {
+  color: var(--hemlock);
+  font-family: 'Athelas', Helvetica, Arial, serif;
+  font-size: 6px;
+  font-style: italic;
+  font-weight: 400;
+}
+.athelas-normal-hemlock-6px-2 {
+  color: var(--hemlock);
+  font-family: 'Athelas', Helvetica, Arial, serif;
+  font-size: 6px;
+  font-style: normal;
+  font-weight: 400;
+}
+.cafe-olla {
+  background-color: var(--hemlock);
+  height: 100vh;
+  margin: 0px;
+  min-height: 812px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.cafe-olla .compassion-d-grounded-RcKkqs {
+  background-color: transparent;
+  height: 3.97%;
+  left: 24.59%;
+  letter-spacing: 0.00px;
+  line-height: 7px;
+  position: absolute;
+  text-align: left;
+  top: 68.86%;
+  white-space: nowrap;
+  width: 52.46%;
+}
+.cafe-olla .ellipse-7-ZR0od6 {
+  background-color: transparent;
+  height: 77.26%;
+  left: 6.68%;
+  position: absolute;
+  top: 0px;
+  width: 86.65%;
+}
+.cafe-olla .group-101-A2f579 {
+  background-color: transparent;
+  background-image: url(../img/path-121-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.cafe-olla .group-291-C61RwL {
+  background-color: transparent;
+  bottom: calc(20.41% - 6px);
+  height: 31px;
+  position: absolute;
+  right: calc(37.93% - 12px);
+  width: 31px;
+}
+.cafe-olla .group-312-RcKkqs {
+  background-color: transparent;
+  height: 122px;
+  position: absolute;
+  right: calc(49.05% - 53px);
+  top: 0px;
+  width: 108px;
+}
+.cafe-olla .group-356-C61RwL {
+  background-color: transparent;
+  bottom: calc(44.08% - 100px);
+  height: 227px;
+  left: calc(50.00% - 90px);
+  position: absolute;
+  width: 181px;
+}
+.cafe-olla .group-469-1cK0tM {
+  background-color: transparent;
+  background-image: url();
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.cafe-olla .group-470-akG49r {
+  background-color: transparent;
+  background-image: url(../img/path-393-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.cafe-olla .group-472-C61RwL {
+  background-color: transparent;
+  bottom: calc(20.48% - 6px);
+  height: 32px;
+  left: calc(43.97% - 35px);
+  position: absolute;
+  width: 79px;
+}
+.cafe-olla .group-480-VUAYfS {
+  background-color: transparent;
+  bottom: calc(45.63% - 9px);
+  height: 19px;
+  position: absolute;
+  right: calc(48.15% - 23px);
+  width: 48px;
+}
+.cafe-olla .group-481-WyXn57 {
+  background-color: transparent;
+  background-image: url(../img/path-444-12@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.cafe-olla .group-482-VUAYfS {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.cafe-olla .group-483-C61RwL {
+  background-color: transparent;
+  height: 121px;
+  left: calc(49.85% - 60px);
+  position: absolute;
+  top: 113px;
+  width: 121px;
+}
+.cafe-olla .main-ingre-resso-milk-RcKkqs {
+  background-color: transparent;
+  height: 3.53%;
+  left: 27.32%;
+  letter-spacing: 0.00px;
+  line-height: 7px;
+  position: absolute;
+  text-align: left;
+  top: 91.93%;
+  white-space: nowrap;
+  width: 46.99%;
+}
+.cafe-olla .path-136-C61RwL {
+  background-color: transparent;
+  height: 36.13%;
+  left: 9.92%;
+  position: absolute;
+  top: 36.18%;
+  width: 80.42%;
+}
+.cafe-olla .path-391-akG49r {
+  background-color: transparent;
+  height: 1px;
+  position: absolute;
+  right: calc(20.67% - 1px);
+  top: calc(47.60% - 1px);
+  width: 4px;
+}
+.cafe-olla .path-392-akG49r {
+  background-color: transparent;
+  height: 2px;
+  left: calc(29.07% - 1px);
+  position: absolute;
+  top: calc(48.46% - 1px);
+  width: 2px;
+}
+.cafe-olla .path-395-XKZu0N {
+  background-color: transparent;
+  height: 5px;
+  left: 9px;
+  position: absolute;
+  top: calc(49.74% - 3px);
+  width: 5px;
+}
+.cafe-olla .path-396-XKZu0N {
+  background-color: transparent;
+  height: 5px;
+  left: calc(19.77% - 1px);
+  position: absolute;
+  top: calc(49.74% - 3px);
+  width: 5px;
+}
+.cafe-olla .path-397-XKZu0N {
+  background-color: transparent;
+  height: 5px;
+  left: calc(27.73% - 2px);
+  position: absolute;
+  top: calc(49.74% - 3px);
+  width: 7px;
+}
+.cafe-olla .path-398-XKZu0N {
+  background-color: transparent;
+  height: 5px;
+  left: calc(37.02% - 2px);
+  position: absolute;
+  top: calc(49.74% - 3px);
+  width: 6px;
+}
+.cafe-olla .path-399-XKZu0N {
+  background-color: transparent;
+  height: 5px;
+  left: calc(45.89% - 3px);
+  position: absolute;
+  top: calc(49.73% - 3px);
+  width: 6px;
+}
+.cafe-olla .path-400-XKZu0N {
+  background-color: transparent;
+  height: 5px;
+  position: absolute;
+  right: calc(39.32% - 3px);
+  top: calc(49.73% - 3px);
+  width: 8px;
+}
+.cafe-olla .path-401-XKZu0N {
+  background-color: transparent;
+  height: 6px;
+  position: absolute;
+  right: calc(28.86% - 2px);
+  top: calc(49.72% - 3px);
+  width: 7px;
+}
+.cafe-olla .path-402-XKZu0N {
+  background-color: transparent;
+  height: 5px;
+  position: absolute;
+  right: calc(19.99% - 1px);
+  top: calc(49.74% - 3px);
+  width: 6px;
+}
+.cafe-olla .path-403-XKZu0N {
+  background-color: transparent;
+  height: 5px;
+  position: absolute;
+  right: 9px;
+  top: calc(49.74% - 3px);
+  width: 5px;
+}
+.cafe-olla .path-404-akG49r {
+  background-color: transparent;
+  height: 1px;
+  left: calc(37.55% - 1px);
+  position: absolute;
+  top: calc(47.60% - 1px);
+  width: 4px;
+}
+.cafe-olla .path-405-akG49r {
+  background-color: transparent;
+  height: 3px;
+  position: absolute;
+  right: calc(29.40% - 1px);
+  top: calc(49.78% - 1px);
+  width: 5px;
+}
+.cafe-olla .path-426-qRTmms {
+  background-color: transparent;
+  height: 6px;
+  left: calc(22.27% - 2px);
+  position: absolute;
+  top: 0px;
+  width: 9px;
+}
+.cafe-olla .path-427-qRTmms {
+  background-color: transparent;
+  height: 6px;
+  left: calc(43.66% - 3px);
+  position: absolute;
+  top: 1px;
+  width: 7px;
+}
+.cafe-olla .path-428-qRTmms {
+  background-color: transparent;
+  height: 6px;
+  position: absolute;
+  right: calc(38.83% - 3px);
+  top: 1px;
+  width: 7px;
+}
+.cafe-olla .path-429-qRTmms {
+  background-color: transparent;
+  height: 6px;
+  position: absolute;
+  right: calc(26.73% - 2px);
+  top: 1px;
+  width: 6px;
+}
+.cafe-olla .path-430-qRTmms {
+  background-color: transparent;
+  height: 6px;
+  left: 5px;
+  position: absolute;
+  top: calc(49.43% - 3px);
+  width: 6px;
+}
+.cafe-olla .path-431-qRTmms {
+  background-color: transparent;
+  height: 6px;
+  left: calc(28.88% - 2px);
+  position: absolute;
+  top: calc(49.49% - 3px);
+  width: 7px;
+}
+.cafe-olla .path-432-qRTmms {
+  background-color: transparent;
+  height: 6px;
+  left: calc(45.38% - 2px);
+  position: absolute;
+  top: calc(49.47% - 3px);
+  width: 5px;
+}
+.cafe-olla .path-433-qRTmms {
+  background-color: transparent;
+  height: 6px;
+  position: absolute;
+  right: calc(40.34% - 2px);
+  top: calc(49.47% - 3px);
+  width: 5px;
+}
+.cafe-olla .path-434-qRTmms {
+  background-color: transparent;
+  height: 6px;
+  position: absolute;
+  right: calc(25.92% - 1px);
+  top: calc(49.47% - 3px);
+  width: 5px;
+}
+.cafe-olla .path-435-qRTmms {
+  background-color: transparent;
+  height: 6px;
+  position: absolute;
+  right: 5px;
+  top: calc(49.47% - 3px);
+  width: 5px;
+}
+.cafe-olla .path-436-qRTmms {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 7px;
+}
+.cafe-olla .path-437-qRTmms {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  left: calc(17.62% - 1px);
+  position: absolute;
+  width: 6px;
+}
+.cafe-olla .path-438-qRTmms {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  left: calc(32.78% - 2px);
+  position: absolute;
+  width: 5px;
+}
+.cafe-olla .path-439-qRTmms {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  position: absolute;
+  right: calc(46.11% - 3px);
+  width: 6px;
+}
+.cafe-olla .path-440-qRTmms {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  position: absolute;
+  right: calc(30.06% - 2px);
+  width: 7px;
+}
+.cafe-olla .path-441-qRTmms {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  position: absolute;
+  right: 5px;
+  width: 7px;
+}
+.cafe-olla .path-442-qRTmms {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  position: absolute;
+  right: 1px;
+  width: 4px;
+}
+.cafe-olla .path-443-WyXn57 {
+  background-color: transparent;
+  bottom: calc(49.86% - 7px);
+  height: 14px;
+  left: calc(20.22% - 1px);
+  position: absolute;
+  width: 6px;
+}
+.cafe-olla .path-445-WyXn57 {
+  background-color: transparent;
+  height: 15px;
+  position: absolute;
+  right: calc(47.90% - 27px);
+  top: calc(32.30% - 5px);
+  width: 56px;
+}
+.cafe-olla .place-of-o-gin-mexico-RcKkqs {
+  background-color: transparent;
+  height: 3.53%;
+  left: 33.88%;
+  letter-spacing: 0.00px;
+  line-height: 7px;
+  position: absolute;
+  text-align: left;
+  top: 97.14%;
+  white-space: nowrap;
+  width: 33.88%;
+}
+.cafe-olla .rectangle-71-A2f579 {
+  background-color: transparent;
+  height: 8px;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: calc(44.78% - 4px);
+  width: 14px;
+}
+.cafe-olla .rectangle-84-ZR0od6 {
+  background-color: transparent;
+  height: 89.16%;
+  left: 0px;
+  position: absolute;
+  top: 10.84%;
+  width: 100.00%;
+}
+.cafe-olla .span0-KZjZwU {
+  color: rgba(89,93,69,1.0);
+  font-family: 'Athelas', Helvetica, Arial, serif;
+  font-size: 6px;
+  font-style: normal;
+  font-weight: 700;
+}
+.cafe-olla .span0-h19Qfu {
+  color: rgba(89,93,69,1.0);
+  font-family: 'Athelas', Helvetica, Arial, serif;
+  font-size: 6px;
+  font-style: normal;
+  font-weight: 700;
+}
+.cafe-olla .span1-KZjZwU {
+  color: rgba(89,93,69,1.0);
+  font-family: 'Athelas', Helvetica, Arial, serif;
+  font-size: 6px;
+  font-style: italic;
+  font-weight: 400;
+}
+.cafe-olla .span1-h19Qfu {
+  color: rgba(89,93,69,1.0);
+  font-family: 'Athelas', Helvetica, Arial, serif;
+  font-size: 6px;
+  font-style: italic;
+  font-weight: 400;
+}
+.cafe-olla .span2-KZjZwU {
+  color: rgba(89,93,69,1.0);
+  font-family: 'Athelas', Helvetica, Arial, serif;
+  font-size: 6px;
+  font-style: normal;
+  font-weight: 400;
+}
+.cafe-olla .span2-h19Qfu {
+  color: rgba(89,93,69,1.0);
+  font-family: 'Athelas', Helvetica, Arial, serif;
+  font-size: 6px;
+  font-style: normal;
+  font-weight: 400;
+}
+.cafe-olla .you-are-a--be-present-RcKkqs {
+  background-color: transparent;
+  height: 12.78%;
+  left: 10.93%;
+  letter-spacing: 0.00px;
+  line-height: 7px;
+  position: absolute;
+  text-align: left;
+  top: 74.50%;
+  white-space: nowrap;
+  width: 79.78%;
+}
+.cafe-olla .you-got-caf-de-olla-RcKkqs {
+  background-color: transparent;
+  height: 8.81%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 54.90%;
+  white-space: nowrap;
+  width: 101.10%;
+}
+.dinpro-bold-black-14px {
+  color: var(--black);
+  font-family: 'DIN Pro', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+}
+.dinpro-normal-black-14px {
+  color: var(--black);
+  font-family: 'DIN Pro', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.dove-gray-border-4px {
+  border: 4px solid var(--dove-gray);
+}
+.ebony-clay-border-4px {
+  border: 4px solid var(--ebony-clay);
+}
+.hemlock-2-border-4px {
+  border: 4px solid var(--hemlock-2);
+}
+.moche-bold-hemlock-15px {
+  color: var(--hemlock);
+  font-family: 'Moche', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.moche-bold-white-17px {
+  color: var(--white);
+  font-family: 'Moche', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --dove-gray: rgba(112,112,112,1.0);
+  --ebony-clay: rgba(38,30,61,1.0);
+  --hemlock: rgba(89,93,69,1.0);
+  --hemlock-2: rgba(81,85,59,1.0);
+  --salmon: rgba(254,143,98,1.0);
+  --spring-wood: rgba(248,246,235,1.0);
+  --white: rgba(255,255,255,1.0);
+}
